@@ -36,7 +36,7 @@ services:
         image: 'lissy93/dashy'
         restart: always
 ```
-````python
+```python
 def delocalize(string):
     "Parses a string as a normalized number according to the locale settings."
 
