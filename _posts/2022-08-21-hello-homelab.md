@@ -21,9 +21,9 @@ So, I found it much more interesting and appropriate to use sff(small form facto
 
 ### First aquisitions
 
-My first choices were an intel nuc and a Synology NAS
-
+My first choices were an intel nuc:
 ![img-description](https://www.novoatalho.pt/Images/product/lg/PC00473_1_Zl17.jpg)
+ And a Synology NAS:
 ![img-description](https://www.synology.com/img/products/detail/DS220plus/heading.png)
 
 
@@ -32,6 +32,8 @@ My first choices were an intel nuc and a Synology NAS
 * four
 * five
 * six
+
+![img-description](/home/paulo/PC00473_1_Zl17.jpg)
 
 ```javascript
 console.log('hello World'):
