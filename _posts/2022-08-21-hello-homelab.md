@@ -9,13 +9,21 @@ tags: [servers, dell, hp, proxmox]
 
 Hello and welcome to my HomeLab docs site!
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+The idea of making an home laboratory, mini datacenter type, came about when, for professional reasons when studying networks and data acquisition, I noticed that many people had this activity as a hobby. As programming is also an area that I dedicate myself to for many years, I thought it might be interesting to have my own infrastructure at home.
 
 # Hardware
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+After a few months of research, carefully analyzing the hardware solutions presented by youtubers and technical articles, I decided to start my own lab.
 
-* one
+Many of the existing projects are of the business type, in which semi-obsolete used equipment is purchased at low prices, with exaggerated capacities for this type of projects and that consume a lot of energy.
+So, I found it much more interesting and appropriate to use sffps , which with ram and adequate processor, can have good performances without spending a lot of energy.
+
+
+* First aquisitions
+My first choices were an intel nuc and a Synology NAS
+
+![img-description](https://www.novoatalho.pt/Images/product/lg/PC00473_1_Zl17.jpg)
+
 * two
 * three
 * four
