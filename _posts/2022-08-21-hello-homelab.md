@@ -33,7 +33,7 @@ My first choices were an intel nuc:
 * five
 * six
 
-![img-description](/home/paulo/PC00473_1_Zl17.jpg)
+![img-description](http://192.168.1.34:8080/PC00473_1_Zl17.jpg)
 
 ```javascript
 console.log('hello World'):
