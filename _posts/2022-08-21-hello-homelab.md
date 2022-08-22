@@ -1,6 +1,6 @@
 ---
+layout: post
 title: Hello HomeLab
-date: 2022.08.20 23:10:00 -500
 categories: [homelab, hardware]
 tags: [servers, dell, hp, proxmox]
 ---
@@ -9,7 +9,7 @@ tags: [servers, dell, hp, proxmox]
 
 Hello and welcome to my HomeLab docs site!
 
-The idea of making an home laboratory, mini datacenter type, came about when, for professional reasons when studying networks and data acquisition, I noticed that many people had this activity as a hobby. As programming is also an area that I dedicate myself to for many years, I thought it might be interesting to have my own infrastructure at home.
+The idea of making an home laboratory, mini datacenter type for self hosting, came about when, for professional reasons while studying networks and data acquisition, I noticed that many people had this activity as an hobby. As programming is also an area that I dedicate myself to for many years, I thought it might be interesting to have my own infrastructure at home.
 
 ## Hardware
 
@@ -23,8 +23,11 @@ So, I found it much more interesting and appropriate to use sff(small form facto
 
 My first choices were an intel nuc:
 ![img-description](https://www.novoatalho.pt/Images/product/lg/PC00473_1_Zl17.jpg)
- And a Synology NAS:
+And a Synology NAS:
 ![img-description](https://www.synology.com/img/products/detail/DS220plus/heading.png)
+
+new nuc image:
+![img-description](/assets/nuc.jpg)
 
 
 * two
