@@ -5,6 +5,8 @@ categories: [homelab, hardware]
 tags: [servers, dell, hp, proxmox]
 ---
 
+![img-description](/assets/ppmatrix-black.png)
+
 # Welcome
 
 Hello and welcome to my HomeLab docs site!
@@ -27,7 +29,7 @@ And a Synology NAS:
 ![img-description](https://www.synology.com/img/products/detail/DS220plus/heading.png)
 
 new nuc image:
-![img-description](/assets/nuc.jpg)
+3b
 
 
 * two
@@ -36,7 +38,6 @@ new nuc image:
 * five
 * six
 
-![img-description](http://192.168.1.34:8080/PC00473_1_Zl17.jpg)
 
 ```javascript
 console.log('hello World'):
