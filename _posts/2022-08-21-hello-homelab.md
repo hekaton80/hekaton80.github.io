@@ -27,9 +27,8 @@ My first choices were an intel nuc:
 ![img-description](https://www.novoatalho.pt/Images/product/lg/PC00473_1_Zl17.jpg)
 And a Synology NAS:
 ![img-description](https://www.synology.com/img/products/detail/DS220plus/heading.png)
-
-new nuc image:
-3b
+And a Synology NAS:
+![img-description](/assets/nas2.png)
 
 
 * two
