@@ -38,44 +38,6 @@ Here's the result:
 
 ## Software
 
-After reading about self-hosters choice for virtualization engine, I decided to install proxmox, and it revealed to be a good choice.
-Easy to install and intuitive management. 
+After reading the opinions of some self hosting lab owners, I decided to install proxmox has virtualization management system, which turned out to be an excellent choice, as it is easy to install and very intuitive to use.
 
-
-
-
-
-
-```javascript
-console.log('hello World'):
-```
-```yml
-version: '3.3'
-services:
-    dashy:
-        ports:
-            - '8088:80'
-        volumes:
-            - '/home/paulo/dashy-data/my-config.yml:/app/public/conf.yml \'
-        image: 'lissy93/dashy'
-        restart: always
-```
-```python
-def delocalize(string):
-    "Parses a string as a normalized number according to the locale settings."
-
-    conv = localeconv()
-
-    #First, get rid of the grouping
-    ts = conv['thousands_sep']
-    if ts:
-        string = string.replace(ts, '')
-
-    #next, replace the decimal point with a dot
-    dd = conv['decimal_point']
-    if dd:
-        string = string.replace(dd, '.')
-    return string
-
-print(delocalize('12,6'))
-```
+On next post of this Blog, I will describe the installation process and some considerations about using proxmox, creating VM's, CT's and other stuff.
