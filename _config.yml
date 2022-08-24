@@ -85,7 +85,7 @@ img_cdn:
 # the avatar on sidebar, support local or CORS resources
 avatar: /assets/logo_only_transparente2.png
 
-# boolean type, the global switch for ToC in posts.
+# boolean type, the global switch for ToC in posts..
 toc: true
 
 comments:

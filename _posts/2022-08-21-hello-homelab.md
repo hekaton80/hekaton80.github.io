@@ -34,7 +34,6 @@ And a Synology NAS:
 * three
 * four
 * five
-* six
 
 
 ```javascript
