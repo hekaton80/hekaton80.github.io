@@ -20,20 +20,25 @@ After a few months of research, carefully analyzing the hardware solutions prese
 Many of the existing projects are of the business type, in which semi-obsolete used equipment is purchased at low prices, with exaggerated capacities for this type of projects and that consume a lot of energy.
 So, I found it much more interesting and appropriate to use sff(small form factor) computers , which with ram and adequate processor, can have good performances without spending a lot of energy.
 
-
 ### First aquisitions
 
-My first choices were an intel nuc:
-![img-description](https://www.novoatalho.pt/Images/product/lg/PC00473_1_Zl17.jpg)
+* 1 Intel NUC 10 intel Core i7-10710U / 32Gb RAM / NVMe 1Tb + SSD 1Tb
+* 1 Synology DS220+ (2x4Tb)
 
-And a Synology NAS:
-![img-description](/assets/nas2_transparente.png)
+After setting up one node with the Intel Nuc and a RAID 1 storage with NAS, made a few more aquisitions to setup an small but versatile homelab:
+
+* 1 Lenovo ThinkCentre M900 micro tiny Intel i5-6500T / 16GB RAM /240 Gb SSD
+* 2 Dell Optiplex 7050 micro PC i5-6500T 32GB RAM / 240 SSD
+
+Later added some cheap UPS and an 8-port 1Gb switch.
+
+Here's the result:
+
+![ppmatrix homelab V1.0](/assets/homelab_v10.jpg)
 
 
-* two
-* three
-* four
-* five
+
+
 
 
 ```javascript
