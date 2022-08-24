@@ -5,7 +5,7 @@ categories: [homelab, hardware]
 tags: [servers, dell, hp, proxmox]
 ---
 
-![img-description](/logo_def_transp.png)
+![img-description](/assets/logo_def_transp.png)
 
 # Welcome
 
